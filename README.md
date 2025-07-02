@@ -78,8 +78,15 @@ I'm always open to collaborating on exciting projects, sharing knowledge, and le
 ### GitHub Stats 📈
 
 Here's a glimpse into my recent activity and contributions on GitHub.
+*(If your GitHub Streak isn't showing, please refer to the troubleshooting steps previously provided, as this is typically due to caching or service issues with the external image provider.)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Swaminathan-0704&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swaminathan-0704&theme=radical&hide_border=true" alt="Your GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  🌟 Thanks for stopping by! Let's build something amazing together. 🌟
 </p>
