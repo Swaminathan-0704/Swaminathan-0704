@@ -82,7 +82,7 @@ Here's a glimpse into my recent activity and contributions on GitHub.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Swaminathan-0704&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swaminathan-0704&theme=radical&hide_border=true" alt="Your GitHub Streak" />
+  <img src="https://your-vercel-app-name.vercel.app/?user=Swaminathan-0704&theme=radical&hide_border=true" alt="Your GitHub Streak" />
 </p>
 
 ---
