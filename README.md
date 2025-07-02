@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Swaminathan K! 🚀
 
-A passionate Computer Science student excited to transform data into impactful solutions. I love diving deep into machine learning, data analytics, and predictive modeling. My goal is to implement innovative data-driven solutions to solve complex challenges, improve operational efficiency, and deliver sustainable impact.
+A passionate **Computer Science student** excited to transform data into impactful solutions. I love diving deep into **machine learning, data analytics, and predictive modeling**. My goal is to implement innovative data-driven solutions to solve complex challenges, improve operational efficiency, and deliver sustainable impact.
 
 ---
 
 ### Tech Stack 🛠️
 
-Here are the technologies and tools I work with:
+I leverage a robust set of technologies and tools to bring data-driven solutions to life.
 
 **Programming Languages:**
 <p>
@@ -37,16 +37,47 @@ Here are the technologies and tools I work with:
 
 ---
 
-### Let's Connect! 🤝
+### Featured Projects 📊
 
-I'm always open to collaborating on exciting projects and learning new things. Feel free to reach out!
+Explore some of the projects where I've applied my skills to solve real-world problems. Click to expand and learn more!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaminathan-k-b7535b237/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/Swaminathan2004/)
+<details>
+  <summary><b>Project Name 1: Predicting Customer Churn</b></summary>
+  <br>
+  Developed a machine learning model to predict customer churn for a telecom company, achieving an accuracy of 90%.
+  <ul>
+    <li>**Technologies:** Python, Scikit-learn, Pandas, Matplotlib</li>
+    <li>**Key Accomplishments:** Reduced churn rate by X% through targeted interventions based on model insights.</li>
+  </ul>
+  🔗 [GitHub Repository](https://github.com/your-username/your-repo-1) | 🚀 [Live Demo/Notebook](https://your-live-demo-link.com) (Optional)
+  <br>
+  </details>
+
+<details>
+  <summary><b>Project Name 2: Sales Dashboard using Power BI</b></summary>
+  <br>
+  Created an interactive sales performance dashboard to visualize key metrics and identify trends, enabling data-driven business decisions.
+  <ul>
+    <li>**Technologies:** Power BI, SQL, Excel</li>
+    <li>**Key Accomplishments:** Provided actionable insights that led to a 15% increase in sales efficiency.</li>
+  </ul>
+  🔗 [GitHub Repository](https://github.com/your-username/your-repo-2) | 📈 [View Dashboard (e.g., Public Power BI link)](https://your-dashboard-link.com) (Optional)
+  <br>
+  </details>
 
 ---
 
+### Let's Connect! 🤝
+
+I'm always open to collaborating on exciting projects, sharing knowledge, and learning new things. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swami07/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/Swaminathan2004/)
+---
+
 ### GitHub Stats 📈
+
+Here's a glimpse into my recent activity and contributions on GitHub.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Swaminathan-0704&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
