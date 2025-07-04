@@ -37,36 +37,6 @@ I leverage a robust set of technologies and tools to bring data-driven solutions
 
 ---
 
-### Featured Projects 📊
-
-Explore some of the projects where I've applied my skills to solve real-world problems. Click to expand and learn more!
-
-<details>
-  <summary><b>Project Name 1: Predicting Customer Churn</b></summary>
-  <br>
-  Developed a machine learning model to predict customer churn for a telecom company, achieving an accuracy of 90%.
-  <ul>
-    <li>**Technologies:** Python, Scikit-learn, Pandas, Matplotlib</li>
-    <li>**Key Accomplishments:** Reduced churn rate by X% through targeted interventions based on model insights.</li>
-  </ul>
-  🔗 [GitHub Repository](https://github.com/your-username/your-repo-1) | 🚀 [Live Demo/Notebook](https://your-live-demo-link.com) (Optional)
-  <br>
-  </details>
-
-<details>
-  <summary><b>Project Name 2: Sales Dashboard using Power BI</b></summary>
-  <br>
-  Created an interactive sales performance dashboard to visualize key metrics and identify trends, enabling data-driven business decisions.
-  <ul>
-    <li>**Technologies:** Power BI, SQL, Excel</li>
-    <li>**Key Accomplishments:** Provided actionable insights that led to a 15% increase in sales efficiency.</li>
-  </ul>
-  🔗 [GitHub Repository](https://github.com/your-username/your-repo-2) | 📈 [View Dashboard (e.g., Public Power BI link)](https://your-dashboard-link.com) (Optional)
-  <br>
-  </details>
-
----
-
 ### Let's Connect! 🤝
 
 I'm always open to collaborating on exciting projects, sharing knowledge, and learning new things. Feel free to reach out!
